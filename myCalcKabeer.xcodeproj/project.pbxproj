@@ -22,6 +22,7 @@
 		6E2A54571E8D6BD100FC37B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E2A545A1E8D6BD100FC37B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E2A545C1E8D6BD100FC37B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E2A54631E8D6C2600FC37B9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +150,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				6E2A54551E8D6BD100FC37B9 /* Base */,
+				6E2A54631E8D6C2600FC37B9 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
